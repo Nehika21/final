@@ -1,0 +1,9 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="620" fill="#e9d8fd"/>
+<circle cx="150" cy="140" r="85" fill="#e76f51" opacity="0.65"/>
+<circle cx="740" cy="450" r="125" fill="#e76f51" opacity="0.35"/>
+<path d="M160 430 C260 250, 470 540, 740 210" stroke="#3b1f2b" stroke-width="18" fill="none" opacity="0.18"/>
+<rect x="220" y="205" width="460" height="210" rx="36" fill="#fffaf0" stroke="#3b1f2b" stroke-width="6"/>
+<text x="450" y="305" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#3b1f2b" text-anchor="middle">Responsive</text>
+<text x="450" y="360" font-family="Georgia, serif" font-size="25" fill="#e76f51" text-anchor="middle">Media Query</text>
+</svg>
