@@ -5,5 +5,5 @@
 <path d="M160 430 C260 250, 470 540, 740 210" stroke="#3b1f2b" stroke-width="18" fill="none" opacity="0.18"/>
 <rect x="220" y="205" width="460" height="210" rx="36" fill="#fffaf0" stroke="#3b1f2b" stroke-width="6"/>
 <text x="450" y="305" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#3b1f2b" text-anchor="middle">Manjit</text>
-<text x="450" y="360" font-family="Georgia, serif" font-size="25" fill="#e76f51" text-anchor="middle">Manjit</text>
+<text x="450" y="360" font-family="Georgia, serif" font-size="25" fill="#e76f51" text-anchor="middle">Team Member 2</text>
 </svg>
